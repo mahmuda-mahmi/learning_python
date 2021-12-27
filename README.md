@@ -1,1 +1,1 @@
-# dudud_didid
+# python_learning_from_scratch
